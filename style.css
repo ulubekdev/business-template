@@ -129,7 +129,7 @@
 
 /* content1 started */
 .con1 {
-  padding: 191px 370px;
+  padding: 140px 370px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -158,6 +158,48 @@
   color: #696871;
 }
 .con1_link {
+  text-decoration: none;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing: -0.531474px;
+  color: #5454d4;
+}
+/* content1 end */
+
+/* content1 started */
+.con2 {
+  padding: 0 370px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 350px;
+}
+.hero2_img {
+  width: 348.5px;
+  height: 473px;
+}
+.con2_h1 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 57px;
+  letter-spacing: -1.56316px;
+  color: #19191b;
+}
+.con2_p {
+  margin: 30px 0 30px 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: -0.625263px;
+  color: #696871;
+}
+.con2_link {
   text-decoration: none;
   font-family: "DM Sans";
   font-style: normal;
