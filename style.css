@@ -110,8 +110,9 @@
   border: 1px solid #e7e7e7;
 }
 
-.wrap_img {
+.hero_img {
   flex: 1;
+  margin-top: 100px;
   margin-right: -80px;
   display: flex;
   justify-content: flex-end;
