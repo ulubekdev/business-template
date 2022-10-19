@@ -7,3 +7,40 @@
   font-family: "DM Sans", sans-serif;
 }
 /* navbar start */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 180px;
+  align-items: center;
+}
+.nav_list {
+  display: flex;
+  gap: 49px;
+}
+.nav_list .nav_item {
+  list-style-type: none;
+}
+.nav_item .nav_link {
+  text-decoration: none;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.468947px;
+  color: #696871;
+}
+.nav_link:hover {
+  color: #19191b;
+  border-bottom: 2px solid #5454d4;
+  padding-bottom: 10px;
+}
+.nav_btn {
+  background: #ff7143;
+}
+.nav_btn:hover {
+  background: white;
+  color: #ff7143;
+  border: 2px solid #ff7143;
+}
+/* navbar end */
