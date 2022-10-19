@@ -117,3 +117,11 @@
   justify-content: flex-end;
 }
 /* header end */
+
+.brend {
+  margin-top: 100px;
+  padding: 0 180px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
