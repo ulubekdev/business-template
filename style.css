@@ -6,6 +6,20 @@
   box-sizing: border-box;
   font-family: "DM Sans", sans-serif;
 }
+.btn {
+  width: 210px;
+  height: 60px;
+  border-radius: 10px;
+  border: none;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: -0.531474px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
 /* navbar start */
 .navbar {
   display: flex;
@@ -44,3 +58,5 @@
   border: 2px solid #ff7143;
 }
 /* navbar end */
+
+/* header start */
