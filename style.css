@@ -22,9 +22,9 @@
 
 /* navbar start */
 .navbar {
+  padding: 30px 186px 0 184.1px;
   display: flex;
   justify-content: space-between;
-  padding: 30px 370px;
   align-items: center;
 }
 .nav_list {
@@ -59,14 +59,12 @@
 }
 /* navbar end */
 
-
-
 /* header start */
 .header {
-  padding: 0 370px;
+  padding: 30px 186px 0 184.1px;
   display: flex;
   align-items: center;
-  gap: 175px;
+  gap: 80px;
   justify-content: space-between;
 }
 .wrap_text {
@@ -112,15 +110,17 @@
 }
 .hero_img {
   width: 580px;
-  height: 644px
+  height: 644px;
   display: flex;
   margin-top: 100px;
 }
 /* header end */
 
+
+/* brand start */
 .brend {
+  padding: 30px 186px 0 184.1px;
   margin-top: 100px;
-  padding: 0 370px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -129,11 +129,15 @@
 
 /* content1 started */
 .con1 {
-  padding: 140px 370px;
+  padding: 150px 186px 0 184.1px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 350px;
+  gap: 165px;
+}
+.con1_wrap {
+  width: 556px;
+  height: 229px;
 }
 .hero2_img {
   width: 348.5px;
@@ -149,6 +153,8 @@
   color: #19191b;
 }
 .con1_p {
+  width: 459px;
+  height: 90px;
   margin: 30px 0 30px 0;
   font-style: normal;
   font-weight: 400;
@@ -169,9 +175,9 @@
 }
 /* content1 end */
 
-/* content1 started */
+/* content2 started */
 .con2 {
-  padding: 0 370px;
+  padding: 30px 186px 0 184.1px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -209,4 +215,13 @@
   letter-spacing: -0.531474px;
   color: #5454d4;
 }
-/* content1 end */
+/* content2 end */
+
+/* content3 started */
+.con3 {
+  padding: 30px 186px 0 184.1px;
+  display: flex;
+  background-color: red;
+}
+
+/* content3 end */
